@@ -5,3 +5,4 @@
 <br>com.nnnen.plusne https://github.com/Xposed-Modules-Repo/com.nnnen.plusne/releases
 <br>绿色免安装窗口置顶小工具 https://github.com/Bluegrams/PinWin 
 <br>linux系统NTFS文件系统支持：https://github.com/tuxera/ntfs-3g/releases
+openwrt版AdGuard https://github.com/kongfl888/luci-app-adguardhome
